@@ -1,0 +1,13 @@
+一 建工程 windows桌面向导
+   添加预编译头文件 pch.h pch.cpp
+   工程里面所有的.cpp都要引入pch.h
+
+二 架构
+   
+   蛇类:MySnake
+   食物:MyFood
+   地图:MyMap
+   游戏:MyManager
+
+   tool.h  tool.cpp
+   参数:refernce.h
